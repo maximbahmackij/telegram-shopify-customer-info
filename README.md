@@ -16,6 +16,11 @@ cd telegram-shopify-customer-info
 npm install
 npm run dev
 ```
+## Example
+<img src="https://github.com/user-attachments/assets/1a981470-4c27-4c66-80d7-a2f9b55a5d8f" alt="Example 1" height="350">
+<img src="https://github.com/user-attachments/assets/da2972b7-2041-4439-8e36-5932fc6268d9" alt="Example 2" height="350">
+<img src="https://github.com/user-attachments/assets/793eadc6-97fb-4c1f-853d-2e437fd10635" alt="Example 3" height="350">
+<img src="https://github.com/user-attachments/assets/69a2db26-6990-407e-ae48-572d3d1526a0" alt="Example 4" height="350">
 
 ## Resources
 
